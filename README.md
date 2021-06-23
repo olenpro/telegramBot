@@ -95,3 +95,6 @@ teelebot
     systemctl status telebot.service
     
     > статус зеленый и бот запуститься
+    
+   в sourse botvirt/bin/activate   в виртуальном ставим selenium
+   #### установка webdriver debian
